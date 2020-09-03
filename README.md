@@ -78,8 +78,8 @@ Initializes the global variables from previous iteration through program. This i
 
 ## References
 
-Minton, Steve, et al. "The Min-Conflicts Heuristic: Experimental and Theoretical Results." NASA Ames Research Center, 1991.
+Minton, Steve, et al. "The Min-Conflicts Heuristic: Experimental and Theoretical Results." *NASA Ames Research Center, 1991.*
 
-Sosič, Rok, and Jun Gu. "Efficient local search with conflict minimization: a case study of the n-queens problem." IEEE Transactions on Knowledge and Data Engineering, vol. 6, no.5, 1994, pp. 661-668.
+Sosič, Rok, and Jun Gu. "Efficient local search with conflict minimization: a case study of the n-queens problem." *IEEE Transactions on Knowledge and Data Engineering*, vol. 6, no.5, 1994, pp. 661-668.
 
-Sosič, Rok, and Jun Gu. "3,000,000 Queens in less than one minute." ACM SIGART Bulletin, vol. 2, no. 2, 1991, pp. 22-24.
+Sosič, Rok, and Jun Gu. "3,000,000 Queens in less than one minute." *ACM SIGART Bulletin*, vol. 2, no. 2, 1991, pp. 22-24.
